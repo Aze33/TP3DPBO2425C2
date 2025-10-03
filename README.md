@@ -1,6 +1,6 @@
 # Janji
 
-Saya Zahran Zaidan Saputra dengan NIM 2415429 mengerjakan TP 2 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin
+Saya Zahran Zaidan Saputra dengan NIM 2415429 mengerjakan TP 3 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin
 
 # Diagram
 <img width="1053" height="623" alt="image" src="https://github.com/user-attachments/assets/e9b5d2bc-a148-4f05-b726-6712fe0e5214" />
